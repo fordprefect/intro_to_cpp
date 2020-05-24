@@ -1,3 +1,9 @@
+# Local environment files
+*.depend
+
+# Output folders
+bin/
+
 # Prerequisites
 *.d
 
