@@ -31,8 +31,8 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="practice/add.cpp" />
-		<Unit filename="practice/main.cpp" />
+		<Unit filename="session-00/add.cpp" />
+		<Unit filename="session-00/main.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
