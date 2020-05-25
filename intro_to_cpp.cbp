@@ -31,8 +31,26 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="session-00/add.cpp" />
-		<Unit filename="session-00/main.cpp" />
+		<Unit filename="NumUtil.cpp" />
+		<Unit filename="NumUtil.h" />
+		<Unit filename="playground/README.md" />
+		<Unit filename="playground/accel_cpp_ch0_ex.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="playground/accel_cpp_ch1_ex.cpp" />
+		<Unit filename="session-00/add.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="session-00/main.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="session-01/main.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
